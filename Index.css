@@ -14,24 +14,34 @@ header {
        padding:20px;
        margin:20px;
        border:20px;
-       background-color: purple;
+       background-color: lightblue;
        color:white;
 }
 footer {
        padding:20px;
        margin:20px;
        border:20px;
+<<<<<<< HEAD
        background-color: lightblue;
        color:white;
        
+=======
+
+>>>>>>> 376435e8ab9ccb190e2bc7a600a6820b4f5d97bb
 }
 
+<<<<<<< HEAD
+=======
 img { 
     float:right;
 }
+<<<<<<< HEAD
 
 #wrapper{
 	width: 500px;
 	margin: 0 auto;
 }
 
+=======
+>>>>>>> d0bde24f222e575ca3a267ebb6113b84b90ff126
+>>>>>>> 376435e8ab9ccb190e2bc7a600a6820b4f5d97bb
