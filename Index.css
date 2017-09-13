@@ -14,16 +14,23 @@ header {
        padding:20px;
        margin:20px;
        border:20px;
-       background-color: purple;
+       background-color: lightblue;
        color:white;
 }
 footer {
        padding:20px;
        margin:20px;
        border:20px;
+<<<<<<< HEAD
        
+=======
+
+>>>>>>> Michael
 }
 
+<<<<<<< HEAD
+=======
 img { 
     float:right;
 }
+>>>>>>> d0bde24f222e575ca3a267ebb6113b84b90ff126
