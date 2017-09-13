@@ -21,9 +21,17 @@ footer {
        padding:20px;
        margin:20px;
        border:20px;
+       background-color: lightblue;
+       color:white;
        
 }
 
 img { 
     float:right;
 }
+
+#wrapper{
+	width: 500px;
+	margin: 0 auto;
+}
+
